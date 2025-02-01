@@ -61,6 +61,8 @@
 ### Как запустить:
 1. Установить `Telebot` (pip install pyTelegramBotAPI)  
 2. Установить `Requests` (pip install requests)  
-3. Получить Token от Bot Father в телеграме для подключения бота (https://core.telegram.org/bots/tutorial#obtain-your-bot-token)  
-4. Запустить `Telegram_bot.py`  
+3. Получить Token от Bot Father в телеграме для подключения бота (https://core.telegram.org/bots/tutorial#obtain-your-bot-token)
+4. Запусьть `Telegram_Bot.pyproj` через Microsoft Visual Studio  
+ИЛИ  
+Запустить `Telegram_bot.py` через любую IDE
 #
